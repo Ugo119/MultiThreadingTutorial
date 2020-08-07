@@ -2,7 +2,7 @@ package com.ugo.java.multithreads.threads;
 
 /**
  * Objects of MyThread can be run in their own threads because MyThread
- * implements Runnable.
+ * implements Runnable. This is a simple implementation.
  */
 public class MyThread implements Runnable {
     String thrdName;
